@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Alexandre Barbosa. During my 30+ years working for great companies of all sizes and industry types, I have learned one important thing: Dev is Life! 
+I love what I do and I love to make new friends. We are here to collaborate and to put stuff to work. If you want to reach me or fork one of my public projects, be my guest! My specialty is on dotNet C# projects. 
+
+<table><tr><td><img align="center" src="https://github-readme-stats.vercel.app/api/?username=agbarbosa&theme=dark" style="border:1px #ccc solid; padding: 10px;" /></td><td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agbarbosa&theme=dark" /></td></tr></table>
+  
