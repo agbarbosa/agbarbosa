@@ -19,3 +19,10 @@ I love what I do and I love to make new friends. We are here to collaborate and 
   <img align="center" alt="c#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 </div>
   
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/alebarbosa/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="100"></a>
+</div> 
+
+![Snake animation](https://github.com/agbarbosa/agbarbosa/blob/output/github-contribution-grid-snake.svg)
