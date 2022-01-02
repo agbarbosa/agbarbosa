@@ -6,8 +6,9 @@ I love what I do and I love to make new friends. We are here to collaborate and 
 
 <div>
   <a href="https://github.com/agbarbosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=agbarbosa&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agbarbosa&layout=compact&langs_count=16&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=agbarbosa&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agbarbosa&layout=compact&langs_count=16&theme=dracula" />
+  </a>
 </div>
 
 <div style="display: inline_block">
