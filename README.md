@@ -4,13 +4,10 @@
 My name is Alexandre Barbosa. During my 30+ years working for great companies of all sizes and industry types, I have learned one important thing: Dev is Life! 
 I love what I do and I love to make new friends. We are here to collaborate and to put stuff to work. If you want to reach me or fork one of my public projects, be my guest! My specialty is on dotNet C# projects. 
 
-<div style="display: inline_block; float: left;">
-  <br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="c#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-</div>
   
 ##
 
